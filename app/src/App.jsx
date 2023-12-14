@@ -3,8 +3,6 @@ import { BrowserRouter, Switch, Route } from 'react-router-dom'
 import { Toaster } from 'react-hot-toast'
 import { Home } from '@/pages/home'
 
-import { ResponsiveIndicator } from '@/components/responsive-indicator'
-import { Navbar } from '@/components/navbar'
 import Loader from '@/components/loader'
 import api from '@/services/api'
 
@@ -33,7 +31,6 @@ export default function App() {
         <Route path='/' component={Home} />
       </Switch>
       <Toaster position='top-center' />
-      <ResponsiveIndicator />
     </BrowserRouter>
   )
 }
