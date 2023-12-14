@@ -44,7 +44,7 @@ npm i
 
 ### 4. Start Teams Application
 
-After installing dependencies, open the Teams Toolkit in your IDE, navigate to **Environments** -> **Local**, and click on **Run** to start the Teams Application.
+After installing dependencies, open the teams directory on your Visual Studio Code. Go to the Teams Toolkit in your IDE, navigate to **Environment** -> **Local**, and click on **Debug** to start the Teams Application. Click on the link generated on the **Output Console** and there you go!
 
 ## Additional Information
 
