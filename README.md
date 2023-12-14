@@ -28,7 +28,7 @@ npm run dev
 Next, set up the App component:
 
 ```bash
-cd api 
+cd app 
 npm i
 npm run dev
 ```
