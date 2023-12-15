@@ -1,4 +1,4 @@
-# The Simplest Microsft Teams App Boilerplate Using Node.js
+# The Simplest Microsoft Teams App Boilerplate Using Node.js
 
 This document provides instructions for setting up and running a basic Teams App using Node.js.
 
