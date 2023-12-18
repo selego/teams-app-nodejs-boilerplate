@@ -50,6 +50,16 @@ After installing dependencies, open the teams directory on your Visual Studio Co
 
 For more detailed information about each component, refer to the respective README files in their directories.
 
+
+### 5. What the Application looks like
+![Teams App Boilerplate - Main Tab](app/public/image1.png)
+![Teams App Boilerplate - About Tab](app/public/image2.png)
+
+
+#### Check our app Jobmaker (digital career coach) on Microsoft App Store created using this template:
+[Jobmaker - Microsoft AppSource](https://appsource.microsoft.com/en-us/product/office/WA200006309?tab=Overview)
+
+
 ## Support
 
 If you encounter any issues or have questions, please file an issue in the project's GitHub repository.
