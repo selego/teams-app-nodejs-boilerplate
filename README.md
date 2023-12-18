@@ -56,7 +56,7 @@ For more detailed information about each component, refer to the respective READ
 ![Teams App Boilerplate - About Tab](app/public/image2.png)
 
 
-#### Check our app Jobmaker (digital career coach) on Microsoft App Store created using this template:
+# Check our app Jobmaker (digital career coach) on Microsoft App Store created using this template:
 [Jobmaker - Microsoft AppSource](https://appsource.microsoft.com/en-us/product/office/WA200006309?tab=Overview)
 
 
