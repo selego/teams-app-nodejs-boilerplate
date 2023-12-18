@@ -1,4 +1,4 @@
-# The Simplest Teams App Boilerplate Using Node.js
+# The Simplest Microsoft Teams App Boilerplate Using Node.js
 
 This document provides instructions for setting up and running a basic Teams App using Node.js.
 
@@ -49,6 +49,16 @@ After installing dependencies, open the teams directory on your Visual Studio Co
 ## Additional Information
 
 For more detailed information about each component, refer to the respective README files in their directories.
+
+
+### 5. What the Application looks like
+![Teams App Boilerplate - Main Tab](app/public/image1.png)
+![Teams App Boilerplate - About Tab](app/public/image2.png)
+
+
+# Check our app Jobmaker (digital career coach) on Microsoft App Store created using this template:
+[Jobmaker - Microsoft AppSource](https://appsource.microsoft.com/en-us/product/office/WA200006309?tab=Overview)
+
 
 ## Support
 
