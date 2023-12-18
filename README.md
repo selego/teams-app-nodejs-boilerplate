@@ -58,6 +58,12 @@ For more detailed information about each component, refer to the respective READ
 
 # Check our app Jobmaker (digital career coach) on Microsoft App Store created using this template:
 [Jobmaker - Microsoft AppSource](https://appsource.microsoft.com/en-us/product/office/WA200006309?tab=Overview)
+#### Microsoft Teams Capabilities:
+1. **Tabs:** Tabs can display web content, documents, third-party applications, and more.
+
+2. **Single Sign-On (SSO):** Microsoft Teams supports Single Sign-On. With SSO, users can use their existing credentials to sign in to Teams and other integrated Microsoft services without needing to enter their login information repeatedly.
+
+
 ![Jobmaker Teams App - Main Tab](app/public/image3.png)
 ![Jobmaker Teams App](app/public/image4.png)
 
