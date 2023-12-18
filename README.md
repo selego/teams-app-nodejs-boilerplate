@@ -58,6 +58,8 @@ For more detailed information about each component, refer to the respective READ
 
 # Check our app Jobmaker (digital career coach) on Microsoft App Store created using this template:
 [Jobmaker - Microsoft AppSource](https://appsource.microsoft.com/en-us/product/office/WA200006309?tab=Overview)
+![Jobmaker Teams App - Main Tab](app/public/image3.png)
+![Jobmaker Teams App](app/public/image4.png)
 
 
 ## Support
